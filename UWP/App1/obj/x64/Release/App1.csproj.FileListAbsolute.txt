@@ -1,0 +1,10 @@
+C:\Users\sami\Documents\Visual Studio 2015\Projects\App1\App1\obj\x64\Release\App.g.i.cs
+C:\Users\sami\Documents\Visual Studio 2015\Projects\App1\App1\obj\x64\Release\App.g.cs
+C:\Users\sami\Documents\Visual Studio 2015\Projects\App1\App1\obj\x64\Release\MainPage.g.i.cs
+C:\Users\sami\Documents\Visual Studio 2015\Projects\App1\App1\obj\x64\Release\MainPage.g.cs
+C:\Users\sami\Documents\Visual Studio 2015\Projects\App1\App1\obj\x64\Release\XamlTypeInfo.g.cs
+C:\Users\sami\Documents\Visual Studio 2015\Projects\App1\App1\obj\x64\Release\App.xaml
+C:\Users\sami\Documents\Visual Studio 2015\Projects\App1\App1\obj\x64\Release\MainPage.xaml
+C:\Users\sami\Documents\Visual Studio 2015\Projects\App1\App1\obj\x64\Release\App.xbf
+C:\Users\sami\Documents\Visual Studio 2015\Projects\App1\App1\obj\x64\Release\MainPage.xbf
+C:\Users\sami\Documents\Visual Studio 2015\Projects\App1\App1\obj\x64\Release\XamlSaveStateFile.xml

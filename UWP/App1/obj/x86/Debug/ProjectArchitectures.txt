@@ -1,0 +1,2 @@
+C:\Users\DELL\Documents\s_2017\236604-504s_2017\App1\App1\App1\App1.csproj;x86
+C:\Users\DELL\Documents\s_2017\236604-504s_2017\MidiSharp-master\MidiSharp-master\MidiSharp\MidiSharp.csproj;neutral
